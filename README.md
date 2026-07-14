@@ -10,7 +10,9 @@ A cada leitura, comparamos o valor recebido com faixas que definimos para classi
 
 
 Menor que 50: muito claro
+
 Entre 50 e 300: ambiente ideal
+
 Maior que 300: muito escuro
 
 
