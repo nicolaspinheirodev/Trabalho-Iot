@@ -26,9 +26,11 @@ Python
 Comunicação Serial
 Banco de dados SQLite
 
-Autores
+Autores e suas contribuições:
 
+Bruno Ballarotti: Banco de dados
 
-Bruno Ballarotti
+Gabriel Caris: IoT
 
-Nicolas Pinheiro
+Nicolas Pinheiro: Python
+
