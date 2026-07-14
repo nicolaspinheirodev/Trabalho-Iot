@@ -29,5 +29,5 @@ Banco de dados SQLite
 Autores
 
 
-
+Bruno Ballarotti
 Nicolas Pinheiro
