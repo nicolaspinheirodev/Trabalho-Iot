@@ -35,18 +35,3 @@ def salvar_leitura(valor, status):
 
     conn.commit()
     conn.close()
-'''def buscar_leituras():
-    conn = conectar()
-    cursor = conn.cursor()
-
-
-    cursor.execute("""
-    SELECT * FROM luminosidade
-    """)
-
-    leituras = cursor.fetchall()
-    conn.commit()
-    conn.close()
-    return leituras
-
-buscar_leituras()'''
